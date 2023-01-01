@@ -1,5 +1,5 @@
-# [Topic]-Exercises
-This is an environment where I can sharpen my numpy skills.
+# Matplotlib-Exercises
+This is an environment where I can sharpen my matplotlib skills.
 
 # How to Run Notebooks
 
